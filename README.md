@@ -3,7 +3,7 @@
 [editor on GitHub](https://github.com/WWvivien/WWvivien.github.io/edit/main/README.md)
 
 
-# 个人常用
+# 野蛮生长
 
  - [yuque](https://www.yuque.com/)
  - [英语听力](https://zhenti.burningvocabulary.com/)
